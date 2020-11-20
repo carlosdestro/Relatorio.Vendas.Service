@@ -1,0 +1,4 @@
+Quantidade de clientes no arquivo de entrada: 2
+Quantidade de vendedores no arquivo de entrada: 2
+Id da venda mais cara: 10
+Pior vendedor: Pedro, CPF: 1234567891234
